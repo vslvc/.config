@@ -1,0 +1,23 @@
+# Игнорировать вообще всё
+/*
+
+# Но НЕ игнорировать нужные папки/файлы
+!/.gitignore
+!/nvim/
+!/kitty/
+!/fish/
+!/cmus/
+
+!/i3/
+!/polybar/
+!/rofi/
+
+!/gtk-3.0/
+!/gtk-4.0/
+!/gtkrc
+!/gtkrc-2.0
+!/xsettingsd/
+
+!/fastfetch/
+!/mc/
+!/systemd/
