@@ -22,3 +22,11 @@
 !/mc/
 !/systemd/
 fish/fish_variables
+
+**/*-history
+**/*_history
+**/*.bak
+**/*.bak.*
+cmus/autosave
+cmus/cache
+cmus/playlists/
